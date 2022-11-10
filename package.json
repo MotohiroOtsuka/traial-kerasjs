@@ -1,0 +1,12 @@
+{
+  "name": "hoge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis.js",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.0.0",
+    "@tensorflow/tfjs-node-gpu": "^4.0.0",
+    "loadsh": "^0.0.4"
+  }
+}
